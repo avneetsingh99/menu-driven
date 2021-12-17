@@ -52,6 +52,12 @@ while True:
         print("2.sphere")
         print("3.cone")
         q=int(input("enter the option which you want to do:- "))
+          if q==1:
+             r=int(input("enter radius here:- "))
+             s=int(input("enter height here:- "))
+            print(22/7*r*r*h)
+          elif q=2:
+
             
             
             
