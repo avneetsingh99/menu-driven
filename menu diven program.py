@@ -57,7 +57,14 @@ while True:
              s=int(input("enter height here:- "))
             print(22/7*r*r*h)
           elif q=2:
-
+             t=int(input("enter radius here:- "))
+             print(4/3*22/7*t*t*t)
+         else:
+            u=int(input("enter radius here:- "))
+            v=int(input("enter height here:- "))
+             print("1/3*22/7*u*u*v")
+     else:
+         print("Bye!Bye!have a nice day!")
             
             
             
